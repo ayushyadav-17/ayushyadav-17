@@ -1,66 +1,114 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:161B22,100:1F6FEB&height=190&section=header&text=AYUSH%20YADAV&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%7C%20Creator%20%7C%20Learner&descAlignY=60&descSize=17" width="100%" alt="Ayush Yadav header"/><a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ayush+Yadav+%F0%9F%91%8B;Full+Stack+Development;Frontend+Development;Creative+Video+Editor;Always+Learning+and+Building" alt="Typing SVG"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=ayushyadav-17&label=PROFILE%20VIEWS&color=1F6FEB&style=for-the-badge" alt="Profile views"/>
-<a href="https://github.com/ayushyadav-17?tab=repositories"><img src="https://img.shields.io/badge/Explore-Repositories-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a></div>👨‍💻 About Me
-Hey! I'm Ayush Yadav, a developer from India who enjoys creating useful, creative, and user-friendly digital experiences.
-- 💻 Interested in Frontend and Full Stack Development.
-- 🌱 Currently learning Video Editing.
-- 🧰 Exploring programming languages, web technologies, and creative tools.
-- 🎬 Developer by passion, video editor by creativity.
-- 🚀 I enjoy learning, experimenting, and building new things.
-- 💬 Ask me about Full Stack Development.
-- 📫 Reach me at ayushamilai555@gmail.com.
-🌐 Connect With Me
 <div align="center">
-  <a href="https://linkedin.com/in/ayush-yadav-a12468383"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://kaggle.com/ayushyadav7421"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
-  <a href="https://instagram.com/aayuxh.16"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mailto:ayushamilai555@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</div>🛠️ Languages & Tools
-<div align="center">Programming Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" alt="C, C++, Java, Python and JavaScript"/>
-Frontend
-<img src="https://skillicons.dev/icons?i=html,css" alt="HTML and CSS"/>
-Tools & Creative Software
-<img src="https://skillicons.dev/icons?i=git,github,vscode,ps" alt="Git, GitHub, VS Code and Photoshop"/></div>📊 GitHub Analytics
-<div align="center"><a href="https://github.com/ayushyadav-17?tab=repositories">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fayushyadav-17&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&color=1F6FEB&style=for-the-badge&logo=github" alt="Public repositories"/>
-</a>
 
+<img src="assets/profile-banner.svg" alt="Ayush Yadav — Developer and Creator" width="100%">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ayushyadav-17&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats including stars and commits"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushyadav-17&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top languages"/>
+<br>
 
+[![Profile views](https://komarev.com/ghpvc/?username=ayushyadav-17&label=PROFILE%20VIEWS&color=2563EB&style=flat-square)](https://github.com/ayushyadav-17)
+[![GitHub followers](https://img.shields.io/github/followers/ayushyadav-17?label=FOLLOWERS&style=flat-square&color=2563EB)](https://github.com/ayushyadav-17?tab=followers)
+[![GitHub repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fayushyadav-17&query=%24.public_repos&label=PUBLIC%20REPOS&style=flat-square&color=2563EB)](https://github.com/ayushyadav-17?tab=repositories)
 
-<img src="https://streak-stats.demolab.com?user=ayushyadav-17&theme=github-dark-blue&hide_border=true&background=0D1117" alt="Contribution streak"/></div>🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushyadav-17&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=8" width="100%" alt="GitHub trophies"/>
-</div>📈 Contribution Activity & Commit Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushyadav-17&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity and commit graph"/>
-</div>🐍 Contribution Snake
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushyadav-17/ayushyadav-17/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushyadav-17/ayushyadav-17/output/github-contribution-grid-snake.svg"/>
-    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/ayushyadav-17/ayushyadav-17/output/github-contribution-grid-snake.svg" width="100%"/>
-  </picture>
-</div>💻 Featured Projects
-<div align="center">Explore my repositories to see what I'm learning and building.
-<a href="https://github.com/ayushyadav-17?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="View all projects"/>
-</a></div><!--
-FEATURED PROJECT CARDS
-When you choose your best repositories, replace this comment with cards like:
+### `Full Stack Developer` · `Frontend Developer` · `Video Editor`
 
-<div align="center">
-  <a href="https://github.com/ayushyadav-17/REPOSITORY_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushyadav-17&repo=REPOSITORY_NAME&theme=github_dark&hide_border=true" alt="Project repository card"/>
-  </a>
+*I like turning ideas into useful digital experiences — and learning something new with every project.*
+
 </div>
 
-Use your real repository name in both places. Add 2–4 projects maximum.
---><div align="center">💙 Thanks for visiting my profile!
-Let's connect, collaborate, and build something amazing.
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=110&section=footer" width="100%" alt="Footer"/></div>
+---
+
+## About me
+
+Hey, I'm **Ayush Yadav**, a developer from India interested in building clean, practical, and user-friendly digital experiences.
+
+- 💻 Interested in **frontend and full-stack development**.
+- 🌱 Currently learning **video editing**.
+- 🧩 I enjoy exploring programming languages and web technologies.
+- 🎬 I bring a creative perspective from video editing.
+- 🤝 Open to learning, collaborating, and building interesting projects.
+- 📫 **Email:** [ayushamilai555@gmail.com](mailto:ayushamilai555@gmail.com)
+
+---
+
+## Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-yadav-a12468383)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/ayushyadav7421)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aayuxh.16)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushamilai555@gmail.com)
+
+</div>
+
+---
+
+## Tech I work with
+
+<div align="center">
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
+
+**Web**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+
+</div>
+
+---
+
+## GitHub at a glance
+
+<div align="center">
+
+[![Public repositories](https://img.shields.io/badge/Public%20repositories-View%20on%20GitHub-161B22?style=for-the-badge&logo=github)](https://github.com/ayushyadav-17?tab=repositories)
+[![Stars](https://img.shields.io/github/stars/ayushyadav-17?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=STARS&color=E3B341)](https://github.com/ayushyadav-17?tab=repositories)
+
+</div>
+
+GitHub's own contribution calendar appears directly on this profile below the README. It is the most dependable place to see daily contributions. The contribution snake below is generated by this repository's GitHub Actions workflow.
+
+---
+
+## Projects
+
+I'm building up my public project portfolio. Until I have projects ready to feature, you can see the repositories that are publicly available here:
+
+<div align="center">
+
+[![Browse repositories](https://img.shields.io/badge/BROWSE%20PUBLIC%20REPOSITORIES-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushyadav-17?tab=repositories)
+
+</div>
+
+> **Want to collaborate?** Reach out through [LinkedIn](https://linkedin.com/in/ayush-yadav-a12468383) or [email](mailto:ayushamilai555@gmail.com).
+
+---
+
+## Contribution snake
+
+<div align="center">
+
+![Contribution snake](https://raw.githubusercontent.com/ayushyadav-17/ayushyadav-17/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+*Thanks for stopping by. Keep learning, keep building.* ✨
+
+</div>
